@@ -1,0 +1,1 @@
+Source code ini di dapatakan dari https://copyassignment.com/url-shortener-using-python/
